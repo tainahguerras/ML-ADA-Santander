@@ -1,2 +1,2 @@
-# ML-ADA-Santander
-Projeto de Machine Learning com problema de classificação para trilha de Data Science do Santander Coders by ADA
+https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction?rvi=1
+
