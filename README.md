@@ -4,7 +4,7 @@
 - Curso: Data Science - Santander Coders 2023 | 2º Semestre
 - Módulo: Machine Learning I
 - Turma: 11160
-- Professor: Thiago
+- Professor: Thiago Tavares Magalhães
 
 
 ### Por: Tainah Guerra ID: 05, Matheus Mendonça - ID: 08 e Otávio Santos - ID: 14
@@ -50,8 +50,9 @@ Os dados usados foram originados combinando 5 diferentes bancos de dados em saú
 ### ``4. FERRAMENTAS``
 
 - Git
-- Pandas
 - Matplotlib
+- Numpy
+- Pandas
 - Sckit-Learn
 - Trello
 
@@ -61,4 +62,5 @@ Os dados usados foram originados combinando 5 diferentes bancos de dados em saú
 - https://www.alura.com.br/artigos/get-dummies-vs-onehotencoder-qual-metodo-escolher
 - https://scikit-learn.org/stable/
 - https://matplotlib.org/stable/index.html
+- https://numpy.org/doc/
 - https://pandas.pydata.org/docs/
