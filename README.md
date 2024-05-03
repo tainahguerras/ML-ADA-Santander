@@ -1,6 +1,6 @@
-# Estatistica-ADA-Santander
+# ML-ADA-Santander
 
-- Projeto: EDA (Análise Exploratória de Dados)
+- Projeto: Problema de Classificação com KNN e Random Forest
 - Curso: Data Science - Santander Coders 2023 | 2º Semestre
 - Módulo: Machine Learning I
 - Turma: 11160
